@@ -1,0 +1,47 @@
+-- VS Code Genel Kısayolları --
+
+Cmd + B : Yan menüyü (Dosya Gezgini) açıp kapatır.
+
+Cmd + P : Dosya arama (Hızlıca dosya açmak için).
+
+Cmd + Shift + P : Komut Paleti (Tüm VS Code komutlarına buradan ulaşırsın).
+
+Cmd + , : Ayarlar menüsünü açar.
+
+-- Kod Yazma & Düzenleme --
+
+Cmd + / : Seçili satırı yorum satırı yapar (veya geri alır).
+
+Option + ↓ (veya ↑) : Bulunduğun satırı aşağı veya yukarı taşır.
+
+Option + Shift + ↓ : Bulunduğun satırı aşağıya kopyalar (Çoğaltır).
+
+Cmd + D : Seçili kelimenin aynısını bir sonrakinde de seçer (Çoklu düzenleme).
+
+Option + Shift + F : Kodu otomatik düzenler (Formatlar/Hizalar).
+
+Cmd + Z : Geri al.
+
+Cmd + Shift + Z : İleri al (Yinele).
+
+-- HTML Hızlandırıcılar (Emmet - Yaz ve Tab'a Bas) --
+
+! : Standart HTML5 sayfa iskeletini oluşturur.
+
+ul>li*5 : 1 tane ul ve içinde 5 tane li oluşturur.
+
+.kutu : <div class="kutu"></div> oluşturur.
+
+#baslik : <div id="baslik"></div> oluşturur.
+
+h1{Merhaba} : <h1>Merhaba</h1> oluşturur.
+
+-- Chrome Tarayıcı Kısayolları --
+
+Cmd + Option + I : Geliştirici Araçlarını (Inspect) açar.
+
+Cmd + R : Sayfayı yeniler.
+
+Cmd + W : Açık olan sekmeyi kapatır.
+
+Cmd + Shift + T : Yanlışlıkla kapattığın son sekmeyi geri açar.
