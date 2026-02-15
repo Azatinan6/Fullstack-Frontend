@@ -1,0 +1,30 @@
+/* style.css */
+body {
+  background-color: #020617; /* O resimdeki koyu lacivert tonu */
+  color: white; /* Tüm yazılar beyaz olsun */
+  font-family: "Segoe UI", sans-serif; /* Modern bir font */
+}
+
+/* O özel renkli parlayan buton ve yazı için (Gradient) */
+.gradient-text {
+  background: linear-gradient(to right, #6366f1, #a855f7, #ec4899);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+
+.btn-glow {
+  background: linear-gradient(to right, #6366f1, #ec4899);
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 50px; /* Hap şeklinde buton */
+}
+
+span {
+  color: rgb(255, 255, 255, 0.8); /* O resimdeki açık gri tonu */
+}
+
+section {
+  margin-top: -100px;
+}
